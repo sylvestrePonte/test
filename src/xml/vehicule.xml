@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_91" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="model.réservation.Véhicule" id="Véhicule0">
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>idVéhicule</string>
+     <void method="set">
+      <object idref="Véhicule0"/>
+      <int>1</int>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Immatriculation</string>
+     <void method="set">
+      <object idref="Véhicule0"/>
+      <string>AAA</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Marque</string>
+     <void method="set">
+      <object idref="Véhicule0"/>
+      <string>Renault</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Type</string>
+     <void method="set">
+      <object idref="Véhicule0"/>
+      <string>Utilitaire</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Kilométrage</string>
+     <void method="set">
+      <object idref="Véhicule0"/>
+      <int>150000</int>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Disponibilité</string>
+     <void method="set">
+      <object idref="Véhicule0"/>
+      <boolean>true</boolean>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.réservation.Véhicule" id="Véhicule1">
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>idVéhicule</string>
+     <void method="set">
+      <object idref="Véhicule1"/>
+      <int>2</int>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Immatriculation</string>
+     <void method="set">
+      <object idref="Véhicule1"/>
+      <string>BBB</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Marque</string>
+     <void method="set">
+      <object idref="Véhicule1"/>
+      <string>BMW</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Type</string>
+     <void method="set">
+      <object idref="Véhicule1"/>
+      <string>Citadine</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Kilométrage</string>
+     <void method="set">
+      <object idref="Véhicule1"/>
+      <int>25000</int>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Disponibilité</string>
+     <void method="set">
+      <object idref="Véhicule1"/>
+      <boolean>true</boolean>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.réservation.Véhicule" id="Véhicule2">
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>idVéhicule</string>
+     <void method="set">
+      <object idref="Véhicule2"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Immatriculation</string>
+     <void method="set">
+      <object idref="Véhicule2"/>
+      <string>CCC</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Marque</string>
+     <void method="set">
+      <object idref="Véhicule2"/>
+      <string>Peugeot</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Type</string>
+     <void method="set">
+      <object idref="Véhicule2"/>
+      <string>Citadine</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Kilométrage</string>
+     <void method="set">
+      <object idref="Véhicule2"/>
+      <int>350000</int>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.réservation.Véhicule" id="Véhicule3">
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>idVéhicule</string>
+     <void method="set">
+      <object idref="Véhicule3"/>
+      <int>4</int>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Immatriculation</string>
+     <void method="set">
+      <object idref="Véhicule3"/>
+      <string>DDD</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Marque</string>
+     <void method="set">
+      <object idref="Véhicule3"/>
+      <string>Mercedes</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Type</string>
+     <void method="set">
+      <object idref="Véhicule3"/>
+      <string>Utilitaire</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Kilométrage</string>
+     <void method="set">
+      <object idref="Véhicule3"/>
+      <int>7500000</int>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Disponibilité</string>
+     <void method="set">
+      <object idref="Véhicule3"/>
+      <boolean>true</boolean>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="model.réservation.Véhicule" id="Véhicule4">
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>idVéhicule</string>
+     <void method="set">
+      <object idref="Véhicule4"/>
+      <int>5</int>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Immatriculation</string>
+     <void method="set">
+      <object idref="Véhicule4"/>
+      <string>EEE</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Marque</string>
+     <void method="set">
+      <object idref="Véhicule4"/>
+      <string>Audi</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Type</string>
+     <void method="set">
+      <object idref="Véhicule4"/>
+      <string>Berline</string>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Kilométrage</string>
+     <void method="set">
+      <object idref="Véhicule4"/>
+      <int>600</int>
+     </void>
+    </void>
+    <void class="model.réservation.Véhicule" method="getField">
+     <string>Disponibilité</string>
+     <void method="set">
+      <object idref="Véhicule4"/>
+      <boolean>true</boolean>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>

@@ -67,6 +67,7 @@ public class VueEnregisterLocation {
 		}
 		
 		frame = new JFrame();
+		System.out.println("test");
 		frame.setBounds(100, 100, 636, 388);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.getContentPane().setLayout(null);
